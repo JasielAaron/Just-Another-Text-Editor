@@ -9,10 +9,10 @@
   ## Deployed Application URL
   
   https://notetakerjs-2dafce32e3f5.herokuapp.com/ 
+
   https://github.com/JasielAaron/Just-Another-Text-Editor 
 
-  ## Screenshot
-  ![alt-text]()
+ 
 
   ## Table of Contents
 
